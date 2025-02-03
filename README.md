@@ -15,11 +15,5 @@ Tive a oportunidade de atuar em alguns projetos, onde pude aprender e melhorar m
 Estudos Atuais:
 Atualmente, estou dedicando meu tempo ao aprimoramento das minhas habilidades em Flutter, Kotlin e Azure. Estudar essas tecnologias é uma parte essencial do meu compromisso contínuo com o aprendizado mobile e o aperfeiçoamento profissional.
 
-- Flutter.
-
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="ian-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-</div> 
 
  ##
