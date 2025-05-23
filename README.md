@@ -1,34 +1,42 @@
  ##
-Sou Ian Karel Ctvrtnik, tenho 18 anos e sou um entusiasta apaixonado por tecnologia e desenvolvimento de software. Ao longo da minha caminhada, tenho me mantido focado em me especializar no desenvolvimento mobile.
-______________________________________________________
+👤- Ian Karel Ctvrtnik | 18 anos
+Desenvolvedor Mobile | Flutter | Firebase | IA
 
-💼 Experiência Profissional
-Tive a oportunidade de atuar em alguns projetos, onde pude aprender e melhorar meu conhecimento em desenvolvimento. Nestas oportunidades, destaco minha experiência com:
+Sou um entusiasta apaixonado por tecnologia, com foco em desenvolvimento mobile utilizando Flutter. Busco constantemente aprimorar minhas habilidades para criar soluções eficientes, escaláveis e inteligentes.
 
-🛠️Desenvolvedor Mobile com Flutter
+💼 - Experiência Profissional
 
-🔥 Firebase Expert:
- - Utilização do Firebase para implementação e gerenciamento de banco de dados em tempo real, fornecendo soluções escaláveis e seguras para os projetos. Desenvolvimento de soluções dinâmicas com sincronização instantânea de dados. Configuração de offline persistence para experiência contínua sem internet
+Desenvolvedor Mobile | Flutter
 
-🤖 IA Aplicada:
- - Aplicações com MCP (Modelo de Controle de Processos) para IA.
- - Sistema de Autenticação: Login via Google/Firebase Auth + armazenamento seguro no RTDB.
- - Integração de APIs para aprimorar a funcionalidade e conectividade das aplicações.
- - CO-Participação em reuniões e absorção de metodologias de gerenciamento de projetos, aprimorando minha capacidade de entendimento, planejamento e execução da área de atuação.
+ Desenvolvimento de aplicações mobile multiplataforma com Flutter, seguindo boas práticas e padrões modernos.
 
-🧰 Outras Habilidades:
- - Gerenciamento de Estado com Provider, controle eficiente de estado em aplicações Flutter.
- - Versionamento com Git/GitHub: Colaboração em equipes, garantindo um fluxo de trabalho eficiente e colaborativo.
+ Gerenciamento eficiente de estado com Provider.
+
+ Versionamento de código com Git/GitHub, colaborando em times ágeis.
+
+🔥- Especialista em Firebase
+
+ Implementação de Realtime Database com sincronização instantânea e offline persistence.
+
+ Autenticação segura via Google/Firebase Auth.
+
+ Integração completa de APIs para ampliar a funcionalidade das aplicações.
+
+🤖 - IA Aplicada
+
+ Desenvolvimento de sistemas com Modelos de Controle de Processos (MCP).
+
+ Aplicação de Inteligência Artificial para otimização e personalização de funcionalidades.
 
 
-📚 Estudos Atuais:
-- Flutter Avançado (Clean Architecture, BLoC)
-- Microsoft Azure (Fundamentos em Cloud)
+📚 Formação e Estudos Atuais
 
-______________________________________________________
+ Flutter Avançado: GetX e BLoC Pattern.
+
+ Microsoft Azure: Fundamentos em Cloud Computing.
 
 🎯 Objetivo
-Construir soluções mobile eficientes e inteligentes, combinando IA, banco de dados em tempo real e boas práticas de desenvolvimento.
+Atuar como Desenvolvedor Mobile, criando aplicações robustas e inteligentes, integrando IA, banco de dados em tempo real e seguindo boas práticas de desenvolvimento.
 
 
  ##
