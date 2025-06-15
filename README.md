@@ -1,33 +1,58 @@
  ##
-👤 **Desenvolvedor Mobile | Flutter | Firebase | Dart**
+👤 Desenvolvedor Mobile | Flutter | FirebaseDB | Node.js | PostegreSQL
 
-Desenvolvedor mobile especializado em Flutter, com experiência em desenvolvimento de aplicações multiplataforma e integração com Firebase. Focado em entregar soluções móveis elegantes, performáticas e seguindo as melhores práticas do desenvolvimento mobile.
+Desenvolvedor especializado em soluções móveis multiplataforma com Flutter e integrações backend completas. Combino expertise em desenvolvimento mobile com habilidades em sistemas backend para criar aplicações robustas e performáticas de ponta a ponta.
 
-💼 **Experiência Profissional**
-- Desenvolvimento de aplicações mobile multiplataforma com Flutter
-- Programação em Dart com foco em performance e clean code
-- Implementação de interfaces responsivas e componentes reutilizáveis
-- Gerenciamento eficiente de estado e navegação
 
-🔥 **Especialista em Firebase**
-- Implementação de Realtime Database com sincronização instantânea
-- Autenticação segura via Firebase Auth
-- Storage de arquivos e dados com Cloud Firestore
-- Notificações push e integração de serviços Firebase
+📱 Flutter Developer.
 
-📱 **Desenvolvimento Mobile**
-- Criação de UIs nativas para Android e iOS
-- Otimização de performance e experiência do usuário
-- Integração com APIs REST e serviços externos
-- Testes unitários e de integração
+ Desenvolvimento de interfaces responsivas e customizadas.
 
-🔧 **Ferramentas e Metodologias**
-- Versionamento com Git e GitHub
-- Metodologias ágeis e desenvolvimento colaborativo
-- Debugging e profiling de aplicações mobile
-- Deploy nas lojas Google Play e App Store
+ Arquitetura limpa e gerenciamento de estado eficiente.
 
-🎯 **Objetivo**
-Atuar como Desenvolvedor Mobile, criando aplicações robustas e inteligentes com Flutter, integrando Firebase e contribuindo para experiências móveis excepcionais.
+ Integração com APIs REST e serviços backend.
 
+
+🔥 Firebase:
+
+ Implementação de autenticação (Firebase Auth)
+
+ Bancos de dados em tempo real (Firestore/Realtime DB)
+
+ Armazenamento de arquivos (Cloud Storage)
+
+ Configuração de Cloud Functions
+
+ Análise de dados e crash reporting
+
+
+⚙️ Backend & APIs:
+
+ Desenvolvimento de APIs REST com Node.js
+
+ CRUDs otimizados e endpoints seguros
+
+ Integração com PostgreSQL e bancos relacionais
+
+ Autenticação JWT e gestão de sessões
+
+ Deploy em cloud (Render, AWS, GCP)
+
+
+🛠 Stack Técnica Principal:
+
+ Flutter | Dart
+
+ Firebase (Auth, Firestore, Storage, Functions)
+
+ Node.js | Fastify/Express
+
+ PostgreSQL | MySQL
+
+ Git | GitHub
+
+🎯 Objetivo:
+Desenvolver soluções móveis completas que combinem interfaces intuitivas com backends performáticos, entregando experiências digitais excepcionais desde o frontend mobile até a infraestrutura backend.
+
+#Flutter #Dart #Firebase #NodeJS #PostgreSQL #MobileDeveloper #FullStack #APIDevelopment
  ##
