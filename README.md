@@ -1,7 +1,7 @@
  ##
-👤 Desenvolvedor Mobile | Flutter | FirebaseDB | Node.js | PostegreSQL
+👤 Desenvolvedor Mobile | Flutter | FirebaseDB | SupaBase
 
-Desenvolvedor especializado em soluções móveis multiplataforma com Flutter e integrações backend completas. Combino expertise em desenvolvimento mobile com habilidades em sistemas backend para criar aplicações robustas e performáticas de ponta a ponta.
+Desenvolvedor especializado em soluções móveis multiplataforma com Flutter. Combino expertise em desenvolvimento mobile com habilidades em sistemas backend para criar aplicações robustas e performáticas de ponta a ponta.
 
 
 📱 Flutter Developer.
@@ -26,26 +26,12 @@ Desenvolvedor especializado em soluções móveis multiplataforma com Flutter e 
  Análise de dados e crash reporting
 
 
-⚙️ Backend & APIs:
-
- Desenvolvimento de APIs REST com Node.js
-
- CRUDs otimizados e endpoints seguros
-
- Integração com PostgreSQL e bancos relacionais
-
- Autenticação JWT e gestão de sessões
-
- Deploy em cloud (Render, AWS, GCP)
-
-
 🛠 Stack Técnica Principal:
 
  Flutter | Dart
 
  Firebase (Auth, Firestore, Storage, Functions)
 
- Node.js | Fastify/Express
 
  PostgreSQL | MySQL
 
