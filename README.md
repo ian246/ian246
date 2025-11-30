@@ -64,10 +64,10 @@ Minha missão é entregar aplicações **performáticas**, **escaláveis** e com
 
 <div align="center">
   <a href="https://github.com/ian246">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ian246&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Ian's Github Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ian246&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   </a>
   <a href="https://github.com/ian246">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian246&layout=compact&theme=dracula" alt="Top Langs" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian246&layout=compact&theme=dracula" />
   </a>
 </div>
 
