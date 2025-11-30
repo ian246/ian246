@@ -1,44 +1,52 @@
- ##
-👤 Desenvolvedor Mobile | Flutter | FirebaseDB | SupaBase
+Olá, eu sou o Ian Karel Ctvrtnik! 👋
 
-Desenvolvedor especializado em soluções móveis multiplataforma com Flutter. Combino expertise em desenvolvimento mobile com habilidades em sistemas backend para criar aplicações robustas e performáticas de ponta a ponta.
+📱 Mobile Developer (Flutter) & 🚀 Backend Enthusiast (Node.js)
 
+Sou um desenvolvedor focado na construção de soluções Full Stack. Com uma base sólida em desenvolvimento mobile, atualmente estou expandindo minhas fronteiras para o backend, criando ecossistemas completos (App + API).
 
-📱 Flutter Developer.
+Minha missão é entregar aplicações performáticas, escaláveis e com código limpo, desde a interface do usuário até a infraestrutura de dados.
 
- Desenvolvimento de interfaces responsivas e customizadas.
+🛠️ Arsenal Tecnológico
 
- Arquitetura limpa e gerenciamento de estado eficiente.
+📱 Desenvolvimento Mobile (Frontend)
 
- Integração com APIs REST e serviços backend.
+Especialista em criar interfaces responsivas e integrar recursos nativos.
 
+Arquiteturas: Clean Architecture, MVVM, MVC.
 
-🔥 Firebase:
+Gerência de Estado: Provider, GetX, MobX, ChangeNotifier. (Estudando BLoC).
 
- Implementação de autenticação (Firebase Auth)
+Integrações: API Rest (Dio/Http), Method Channels (Flutter <-> Java Nativo).
 
- Bancos de dados em tempo real (Firestore/Realtime DB)
+Armazenamento Local: SharedPreferences, Hive, SQLite.
 
- Armazenamento de arquivos (Cloud Storage)
+⚙️ Desenvolvimento Backend (Em foco 🎯)
 
- Configuração de Cloud Functions
+Atualmente aprofundando conhecimentos para construir APIs robustas.
 
- Análise de dados e crash reporting
+Arquitetura: Clean Architecture, Controllers, Routes, Migrations.
 
+API: Criação de APIs RESTful.
 
-🛠 Stack Técnica Principal:
+🗄️ Bancos de Dados & BaaS
 
- Flutter | Dart
+🔧 Ferramentas & Outros
 
- Firebase (Auth, Firestore, Storage, Functions)
+🌱 O que estou fazendo agora
 
+🔭 Trabalhando em projetos Full Stack integrando Flutter (Front) com Node.js (Back).
 
- PostgreSQL | MySQL
+📚 Estudando profundamente BLoC Pattern para gerenciamento de estados complexos.
 
- Git | GitHub
+⚙️ Aprimorando testes de API e documentação.
 
-🎯 Objetivo:
-Desenvolver soluções móveis completas que combinem interfaces intuitivas com backends performáticos, entregando experiências digitais excepcionais desde o frontend mobile até a infraestrutura backend.
+⚡ Estatísticas do GitHub
 
-#Flutter #Dart #Firebase #NodeJS #PostgreSQL #MobileDeveloper #FullStack #APIDevelopment
- ##
+<!-- Substitua 'SeuUsuario' pelo seu username do GitHub nas URLs abaixo -->
+
+<div align="center">
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSeuUsuario%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSeuUsuario%26layout%3Dcompact%26theme%3Ddracula"/>
+</div>
+
+📫 Contato
