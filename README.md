@@ -40,9 +40,9 @@ Minha missão é entregar aplicações **performáticas**, **escaláveis** e com
 - **API:** RESTful APIs.
 
 #### 🗄️ Bancos de Dados & BaaS
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-*(Adicionei ícones comuns, edite conforme necessário)*
 
 #### 🔧 Ferramentas & Outros
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -64,8 +64,12 @@ Minha missão é entregar aplicações **performáticas**, **escaláveis** e com
 
 <div align="center">
   <a href="https://github.com/ian246">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ian246&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian246&layout=compact&theme=dracula"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ian246&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Ian's Github Stats" />
+  </a>
+  <br/>
+  <br/>
+  <a href="https://github.com/ian246">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian246&layout=compact&theme=dracula" alt="Top Langs" />
   </a>
 </div>
 
