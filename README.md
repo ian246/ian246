@@ -64,12 +64,10 @@ Minha missão é entregar aplicações **performáticas**, **escaláveis** e com
 
 <div align="center">
   <a href="https://github.com/ian246">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ian246&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Ian's Github Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ian246&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Ian's Github Stats" />
   </a>
-  <br/>
-  <br/>
   <a href="https://github.com/ian246">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian246&layout=compact&theme=dracula" alt="Top Langs" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian246&layout=compact&theme=dracula" alt="Top Langs" />
   </a>
 </div>
 
@@ -81,7 +79,7 @@ Minha missão é entregar aplicações **performáticas**, **escaláveis** e com
   <a href="mailto:seu-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="LINK_DO_SEU_LINKEDIN">
+  <a href="www.linkedin.com/in/ian-karel-ctvrtnik-462a43253">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
