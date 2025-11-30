@@ -18,7 +18,7 @@ Gerência de Estado: Provider, GetX, MobX, ChangeNotifier. (Estudando BLoC).
 
 Integrações: API Rest (Dio/Http), Method Channels (Flutter <-> Java Nativo).
 
-Armazenamento Local: SharedPreferences, Hive, SQLite.
+Armazenamento Local: SharedPreferences, Hive.
 
 ⚙️ Desenvolvimento Backend (Em foco 🎯)
 
@@ -32,9 +32,13 @@ API: Criação de APIs RESTful.
 
 🔧 Ferramentas & Outros
 
+Organização: Trello, Teams.
+
+AI: Gemini, Claude, ChatGPT, Copilot.
+
 🌱 O que estou fazendo agora
 
-🔭 Trabalhando em projetos Full Stack integrando Flutter (Front) com Node.js (Back).
+🔭 Trabalhando em projetos Full Stack integrando Flutter (Front) com NodeJS (Back).
 
 📚 Estudando profundamente BLoC Pattern para gerenciamento de estados complexos.
 
@@ -42,11 +46,9 @@ API: Criação de APIs RESTful.
 
 ⚡ Estatísticas do GitHub
 
-<!-- Substitua 'SeuUsuario' pelo seu username do GitHub nas URLs abaixo -->
-
 <div align="center">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSeuUsuario%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSeuUsuario%26layout%3Dcompact%26theme%3Ddracula"/>
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dian246%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dian246%26layout%3Dcompact%26theme%3Ddracula"/>
 </div>
 
 📫 Contato
