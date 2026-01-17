@@ -1,17 +1,16 @@
 # Olá, eu sou o Ian Karel Ctvrtnik! 👋
 
 <div align="center">
-    <h3>📱 Mobile Developer (Flutter) & 🚀 Backend Enthusiast (Node.js)</h3>
-    <p>
-        <i>Transformando ideias em soluções Full Stack: Do pixel perfect à arquitetura de dados escalável.</i>
-    </p>
-    
-    <a href="[https://www.linkedin.com/in/ian-karel-ctvrtnik-462a43253](https://www.linkedin.com/in/ian-karel-ctvrtnik-462a43253)">
-        <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn Badge"/>
-    </a>
-    <a href="mailto:ianctvrtnik@gmail.com">
-        <img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail Badge"/>
-    </a>
+<h3>📱 Mobile Developer (Flutter) & 🚀 Backend Enthusiast (Node.js)</h3>
+<p>
+<i>Transformando ideias em soluções Full Stack: Do pixel perfect à arquitetura de dados escalável.</i>
+</p>
+<a href="[https://www.linkedin.com/in/ian-karel-ctvrtnik-462a43253](https://www.linkedin.com/in/ian-karel-ctvrtnik-462a43253)">
+<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn Badge"/>
+</a>
+<a href="mailto:ianctvrtnik@gmail.com">
+<img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail Badge"/>
+</a>
 </div>
 
 ---
