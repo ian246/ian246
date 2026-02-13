@@ -1,9 +1,9 @@
 # Olá, eu sou o Ian Karel Ctvrtnik! 👋
 
 <div align="center">
-  <h3>📱 Mobile Developer (Flutter) & 🚀 Backend Enthusiast (Node.js)</h3>
+  <h3>📱 Mobile Developer (Flutter) | ⚙️ Backend Enthusiast (Node.js) | 🛡️ Embedded Systems (C++/Arduino)</h3>
   <p>
-      <i>Transformando ideias em soluções Full Stack: Do pixel perfect à arquitetura de dados escalável.</i>
+      <i>Engenharia de ponta a ponta: Unindo o mundo físico ao digital através de código robusto e hardware inteligente.</i>
   </p>
 
   <a href="https://www.linkedin.com/in/ian-karel-ctvrtnik-462a43253" target="_blank">
@@ -14,56 +14,51 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
+
 ---
 
 ### 💻 Sobre Mim
 
-Desenvolvedor de software focado na criação de ecossistemas digitais completos (App + API). Com sólida expertise em desenvolvimento mobile com **Flutter**, estou expandindo minha atuação para o desenvolvimento backend com **Node.js**, visando a entrega de soluções end-to-end.
+Desenvolvedor de software focado na criação de ecossistemas digitais completos. Minha expertise transita desde o desenvolvimento **Mobile (Flutter)** e **Backend (Node.js)** até o controle de hardware via **Sistemas Embarcados (C++)**. 
 
-Meu foco é desenvolver aplicações **performáticas**, **escaláveis** e de **alta manutenibilidade**, aplicando rigorosamente Clean Code e as melhores práticas de arquitetura de software.
+Meu foco é desenvolver aplicações **performáticas** e **escaláveis**, aplicando Clean Code e arquiteturas modernas (Clean Arch, MVVM). Atualmente, estou explorando a convergência entre IoT, Redundância de Sistemas e Inteligência Artificial.
 
 ---
 
 ### 🛠️ Tech Stack & Ferramentas
 
-#### 📱 Mobile Development (Frontend)
-*Especialista em interfaces responsivas e integrações nativas.*
+#### 📡 Embedded Systems & Hardware
+*Hardware inteligente e automação com foco em confiabilidade.*
 
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![IoT](https://img.shields.io/badge/-Internet_of_Things-grey?style=for-the-badge&logo=iot&logoColor=white)
+
+- **Linguagens:** C/C++ focado em performance.
+- **Microcontroladores:** Família Arduino (Uno, Nano), ESP32 (em aprendizado).
+- **Especialidades:** Redundância de sensores (Sensor Fusion), Telemetria e comunicação Serial/Bluetooth.
+
+#### 📱 Mobile Development (Frontend)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-- **Arquitetura:** Clean Architecture, MVVM, MVC.
-- **Gerência de Estado:** Provider, GetX, MobX, ChangeNotifier (Estudando BLoC).
-- **Integrações:** API Rest (Dio/Http), Method Channels.
-- **Persistência Local:** SharedPreferences, Hive.
+- **Arquitetura:** Clean Architecture, MVVM.
+- **Gerência de Estado:** Provider, GetX, MobX (Estudando BLoC).
+- **Integrações:** Bluetooth Serial, API Rest (Dio/Http), Firebase.
 
-#### ⚙️ Backend Development (Foco Atual 🎯)
-*Construção de APIs robustas e serviços escaláveis.*
-
+#### ⚙️ Backend Development & Database
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-- **Estrutura:** Clean Architecture, Controllers, Routes, Migrations.
-- **Padrão:** RESTful APIs.
-
-#### 🗄️ Database & BaaS
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### 🔧 Dev Tools & AI Ops
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-- **AI Assistants:** Gemini, Claude, ChatGPT, Copilot.
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ---
 
 ### 🌱 Status Atual
 
-- 🔭 Atuando em projetos **Full Stack**, integrando interfaces em Flutter com backends em Node.js.
-- 📚 Aprofundando conhecimentos no **BLoC Pattern** para gestão complexa de estados.
-- ⚙️ Implementação de testes automatizados e documentação técnica de APIs.
+- 🔭 Desenvolvendo o **Smart Sentinel**: Sistema de monitoramento redundante com integração Arduino-Flutter.
+- 📚 Aprofundando em **C++ avançado** para otimização de memória em sistemas embarcados.
+- ⚙️ Integrando dashboards mobile com dados de telemetria em tempo real via Bluetooth/Node.js.
 
 ---
 
