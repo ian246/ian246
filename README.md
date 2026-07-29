@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:39CEFD&height=200&section=header&text=Ian%20Karel%20Ctvrtnik&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Firebase%20%7C%20Supabase%20%7C%20Clean%20Architecture&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:39CEFD&height=200&section=header&text=Ian%20Karel%20Ctvrtnik&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20AI%20Engineer%20%7C%20Node.js%20%7C%20Clean%20Architecture&descAlignY=55&descSize=16" />
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=02569B&center=true&vCenter=true&width=650&lines=Flutter+Developer+%F0%9F%93%B1+%7C+Cross-Platform+Apps;Firebase+%F0%9F%94%A5+%7C+Supabase+%F0%9F%9F%A2+%7C+MySQL+%F0%9F%97%84%EF%B8%8F;Clean+Architecture+%7C+BLoC+%7C+MVVM;Apaixonado+por+UI%2FUX+e+Performance" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=02569B&center=true&vCenter=true&width=650&lines=Flutter+Developer+%F0%9F%93%B1+%7C+Cross-Platform+Apps;AI+Agents+%F0%9F%A4%96+%7C+LangChain+%7C+LangGraph;Node.js+%F0%9F%9F%A2+%7C+Next.js+%7C+PostgreSQL;Clean+Architecture+%7C+BLoC+%7C+MVVM" alt="Typing SVG" />
 
 </div>
 
@@ -24,20 +24,37 @@
 
 ## 👨‍💻 Sobre Mim
 
-Desenvolvedor **Flutter** focado em construir aplicações **cross-platform** de alta qualidade — do design ao deploy. Meu objetivo é criar apps performáticos, escaláveis e com código limpo, aplicando arquiteturas modernas e as stacks mais valorizadas pelo mercado mobile.
+Desenvolvedor **Mobile & AI Engineer** com experiência prática construindo aplicações **Flutter cross-platform** e sistemas backend orientados a IA — do design ao deploy em produção.
 
-Busco minha primeira oportunidade profissional como **Flutter Developer**, com experiência prática em integração de backends reais (Firebase, Supabase, APIs REST) e foco total na qualidade do produto entregue.
+Atuo na concepção e evolução de aplicações mobile offline-first com **Flutter** e **Clean Architecture**, e no desenvolvimento de agentes de IA com **LangChain/LangGraph** para orquestração de fluxos de LLM. Também tenho experiência em plataformas SaaS multi-tenant, integrando **Node.js**, **Next.js** e bancos relacionais (**PostgreSQL/MySQL**) para sistemas de gestão pública e municipal.
+
+Foco em código limpo, arquitetura escalável e produtos que realmente funcionam em condições reais de uso — não só em ambiente de desenvolvimento.
 
 ```dart
-class IanKarel extends FlutterDeveloper {
-  final String foco        = "Flutter — Cross-Platform Mobile";
+class IanKarel extends SoftwareEngineer {
+  final String foco        = "Flutter + AI Engineering";
   final List<String> stack = [
-    "Flutter", "Dart", "Firebase", "Supabase", "MySQL", "PostgreSQL"
+    "Flutter", "Dart", "Node.js", "TypeScript", "Next.js",
+    "LangChain", "LangGraph", "PostgreSQL", "MySQL", "Firebase", "Supabase"
   ];
   final String arquitetura = "Clean Architecture + BLoC + MVVM";
   final bool   disponivelParaTrabalhar = true;
 }
 ```
+
+---
+
+## 🤖 IA & LLM Engineering
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+Projeto e implementação de sistemas de agentes de IA aplicados a produtos reais:
+
+- 🕸️ **LangGraph** — orquestração de fluxos de LLM com grafos de estado, saídas estruturadas via Zod e respostas progressivas via NDJSON Streams
+- 🔗 **LangChain** — camada de abstração para múltiplos modelos de linguagem via OpenRouter
+- 📊 **LangSmith** — rastreamento de chamadas, observabilidade e monitoramento de custos de modelos
+- 📄 **AI + PDF Study Tools** — ferramentas de estudo com IA integradas a apps Flutter (extração e processamento de conteúdo com LangChain)
 
 ---
 
@@ -52,18 +69,31 @@ class IanKarel extends FlutterDeveloper {
 | **Gerência de Estado** | BLoC / Cubit, Provider, GetX, MobX |
 | **Navegação** | GoRouter, Auto Route |
 | **Networking** | Dio, HTTP, WebSockets, REST APIs |
-| **Persistência Local** | sqflite, Drift (Moor), Hive, SharedPreferences |
+| **Persistência Local** | Isar DB, sqflite, Drift (Moor), Hive, SharedPreferences |
 | **Injeção de Dependência** | get_it, Injectable |
 | **Testes** | Unit Tests, Widget Tests, Mockito |
 | **UI/UX** | Material 3, Animações, Custom Widgets, Responsividade |
+| **Segurança** | ProGuard/R8, Obfuscation, Certificate Pinning |
+
+---
+
+## ⚙️ Backend & Web
+
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+
+- **Node.js + TypeScript + Fastify** — APIs REST multi-tenant, integrações com OpenRouter/LangChain
+- **Next.js 14 (App Router)** — dashboards, painéis de relatórios e interfaces com temas dinâmicos por cliente
+- **Prisma ORM / Sequelize** — modelagem relacional, migrations e regras de negócio (incl. compliance LGPD)
+- **Zod** — validação e tipagem de dados em runtime
 
 ---
 
 ## 🔥 Firebase — BaaS Principal
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-Integração completa do ecossistema Firebase com Flutter:
 
 - 🗃️ **Cloud Firestore** — banco NoSQL em tempo real com streams nativos no Flutter
 - 🔐 **Authentication** — login social (Google, Apple), email/senha, biometria
@@ -77,8 +107,6 @@ Integração completa do ecossistema Firebase com Flutter:
 ## 🟢 Supabase — Open Source BaaS
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-Alternativa robusta ao Firebase, com PostgreSQL como base:
 
 - 🐘 **PostgreSQL gerenciado** com queries avançadas e joins reais
 - 🔐 **Row-Level Security (RLS)** — controle de acesso granular por usuário
@@ -96,9 +124,9 @@ Alternativa robusta ao Firebase, com PostgreSQL como base:
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+- **PostgreSQL** — modelagem relacional multi-tenant via Prisma; RLS, functions, triggers (Supabase)
 - **MySQL** — modelagem relacional, queries otimizadas, consumido via APIs REST no Flutter
-- **PostgreSQL** — via Supabase; RLS, functions, triggers
-- **SQLite** — persistência local com `sqflite` e `drift` no Flutter
+- **SQLite / Isar DB** — persistência local offline-first no Flutter
 - **Firestore** — banco NoSQL orientado a documentos com sync em tempo real
 
 ---
@@ -120,6 +148,7 @@ Alternativa robusta ao Firebase, com PostgreSQL como base:
 - ✅ **BLoC Pattern** — gerência de estado reativa e testável
 - ✅ **TDD** — testes unitários e de widget com Mockito
 - ✅ **CI/CD** — GitHub Actions para lint, test e build automático
+- ✅ **Spec-Driven Development** — documentação arquitetural (SDD) para evolução de sistemas
 
 ---
 
@@ -131,35 +160,10 @@ Alternativa robusta ao Firebase, com PostgreSQL como base:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ian246&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian246&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ian246&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-<details>
-<summary>⚙️ Backend complementar — Node.js</summary>
-
-<br/>
-
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
-
-Conhecimento em Node.js + Express para criação de APIs REST consumidas por apps Flutter. JWT, middlewares, integração com MySQL e deploy em Railway/Render.
-
-</details>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39CEFD,100:02569B&height=120&section=footer"/>
